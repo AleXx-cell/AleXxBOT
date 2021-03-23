@@ -538,7 +538,7 @@ const kapankah = ['Hari Lagi',
 
 
 //--Auto respon
-if(budy.match('Satan')){
+if(budy.match('AleXx')){
 result = fs.readFileSync(`./temp/stick/emm.webp`)
   Lxa.sendMessage(from, result, sticker, {
 quoted: mek
