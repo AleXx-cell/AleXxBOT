@@ -98,15 +98,6 @@ meKey = up.Itsmeikyapi
 lolKey = up.LolHumanKey
 //--
 
-//--Kontak
-const vcard = 'BEGIN:VCARD\n'
-+ 'VERSION:3.0\n'
-+ 'FN:-·-AleXx-·-\n' // Nama
-+ 'ORG:AleXxBot;\n' // Nama bot
-+ 'TEL;type=CELL;type=VOICE;waid=18183333333:+1 (818) 333-3333\n' // Nomor bot
-+ 'END:VCARD'  
-
-
 //--Datauser
 
 /*const getLimit = (sender) => {
